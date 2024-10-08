@@ -4,9 +4,9 @@ public class KafeJTI28 {
     public static void main(String[] args) {
         Scanner input28 = new Scanner(System.in);
 
-        int pilihanMenu;
+        int pilihanMenu, pembayaran;
         String member;
-        double diskon, harga, totalBayar;
+        double diskon, harga, totalBayar, hargaPembayaran;
 
         System.out.println("-------------------------------------");
         System.out.println("=========== MENU KAFE JTI ===========");
@@ -21,6 +21,12 @@ public class KafeJTI28 {
         System.out.print("Apakah punya member (y/n) ? = ");
         member = input28.nextLine();
         System.out.println("---------------------------------------");
+        System.out.println("Pilih metode pembayaran(pilih angka): ");
+        System.out.println("1. Qris");
+        System.out.println("2. Lainnya");
+        pembayaran = input28.nextInt();
+        System.out.println("---------------------------------------");
+
 
         if (member.equalsIgnoreCase("y")) {
             diskon = 0.10;
@@ -41,6 +47,13 @@ public class KafeJTI28 {
             //Perhitungan total bayar setelah diskon
             totalBayar = harga - (harga * diskon);
             System.out.println("Total bayar setelah diskon = " + totalBayar);
+            
+            //potongan harga untuk pembayaran menggunakan Qris
+            if (pembayaran == 1) {
+                hargaPembayaran = totalBayar - 1000; 
+                System.out.println("Potongan 1000 untuk pembayaran menggunakan Qris diterapkan.");
+                System.out.println("Harga akhir: " + hargaPembayaran);
+            }
         } else if (member.equalsIgnoreCase("n")) {
             if (pilihanMenu == 1) {
                 harga = 14000;
@@ -56,9 +69,15 @@ public class KafeJTI28 {
                 return;
             }
             System.out.println("Total bayar = " + harga);
+            if (pembayaran == 1) {
+                hargaPembayaran = harga - 1000; 
+                System.out.println("Potongan 1000 untuk pembayaran menggunakan Qris diterapkan.");
+                System.out.println("Harga akhir: " + hargaPembayaran);
+            }
         } else {
             System.out.println("Member tidak valid");
         }
+
         System.out.println("-------------------------------------------");
     }
 }

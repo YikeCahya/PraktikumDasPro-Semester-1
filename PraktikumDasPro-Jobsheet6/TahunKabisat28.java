@@ -10,8 +10,8 @@ public class TahunKabisat28 {
         System.out.print("Masukkan tahun: ");
         tahun = sc.nextInt();
 
-        if (tahun % 4 == 0) {
-            if (tahun % 100 != 0) {
+        if ((tahun % 4) == 0) {
+            if ((tahun % 100) != 0) {
                 System.out.println("Tahun " + tahun + " bukan merupakan tahun kabisat.");
             } else if (tahun % 400 == 0){
                 System.out.println("Tahun " + tahun + " merupakan tahun kabisat.");
@@ -20,6 +20,8 @@ public class TahunKabisat28 {
             }
         } else {
             System.out.println("Tahun " + tahun + " bukan merupakan tahun kabisat.");
+
+
         }
     }
 }

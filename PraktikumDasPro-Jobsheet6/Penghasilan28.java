@@ -21,7 +21,7 @@ public class Penghasilan28 {
             } else {
                 pajak = 0.2;
             }
-        } else if (kategori.equalsIgnoreCase("pebisnis")) {
+        } else if (kategori.equals("pebisnis")) {
             if (penghasilan <= 25000000) {
                 pajak = 0.15;
             } else if (penghasilan <= 35000000) {

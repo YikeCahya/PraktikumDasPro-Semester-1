@@ -31,5 +31,6 @@ public class TokoBuku28 {
         }
 
         System.out.println("Total diskon yang didapatkan adalah " + diskon);
+
     }
 }
