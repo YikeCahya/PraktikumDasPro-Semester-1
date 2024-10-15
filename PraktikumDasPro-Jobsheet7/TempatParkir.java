@@ -10,6 +10,12 @@ public class TempatParkir {
         do {
             System.out.print("Masukkan jenis kendaraan (1. Mobil, 2. Motor, 0. Keluar): ");
             jenis = sc.nextInt();
+
+            if (jenis == 0) {
+                System.out.println("Keluar");
+
+                break;
+            }
     
             if (jenis == 1 || jenis == 2) {
                 System.out.print("Masukkan durasi kendaraan: ");
@@ -17,22 +23,25 @@ public class TempatParkir {
 
                 //durasi
                 if (durasi > 5) {
-                    total += 12500;
+                    total = 12500;
                 } else if (jenis == 1) {
-                    total += durasi * 3000;
+                    total = durasi * 3000;
+                } else if (jenis == 2) {
+                    total = durasi * 2000;
                 } else {
-                    total += durasi * 2000;
+                    System.out.println("Jenis kendaraan tidak valid, Silahkan masukkan ulang.");
+                    continue;
                 }
 
-                System.out.println("Total pembayaran: " + total);
+                //System.out.println("Total pembayaran: " + total);
 
             } else {
-                System.out.println("Salah");
+                System.out.println("Masukkan ulang");
                 continue;
             }
 
-            //total semua pembayaran kendaraan
-            double totalSemuaKendaraan = 
+            System.out.println("Total pembayaran kendaraan ini: " + total);
         } while (true);
+
     }
 }

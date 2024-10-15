@@ -15,13 +15,6 @@ public class Gojek {
         System.out.print("Masukkan waktu dalam format HH.MM (Misal 07.00) ");
         stringWaktu = sc.nextLine();
 
-        switch (07) {
-            case value:
-                
-                break;
-        
-            default:
-                break;
-        }
+
     }
 }
