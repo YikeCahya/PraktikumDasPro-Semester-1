@@ -1,0 +1,567 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AngkaBerpola",
+            "request": "launch",
+            "mainClass": "AngkaBerpola",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan28",
+            "request": "launch",
+            "mainClass": "ArrayBilangan28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai28",
+            "request": "launch",
+            "mainClass": "ArrayNilai28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai28",
+            "request": "launch",
+            "mainClass": "ArrayRataNilai28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop28",
+            "request": "launch",
+            "mainClass": "Bioskop28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "BioskopWithScanner28",
+            "request": "launch",
+            "mainClass": "BioskopWithScanner28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator28",
+            "request": "launch",
+            "mainClass": "ContohOperator28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData28",
+            "request": "launch",
+            "mainClass": "ContohTipeData28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel28",
+            "request": "launch",
+            "mainClass": "ContohVariabel28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan28",
+            "request": "launch",
+            "mainClass": "GajiKaryawan28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "GarasiRumah",
+            "request": "launch",
+            "mainClass": "GarasiRumah",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Kafe28",
+            "request": "launch",
+            "mainClass": "Kafe28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile28",
+            "request": "launch",
+            "mainClass": "KafeDoWhile28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KafeJTI28",
+            "request": "launch",
+            "mainClass": "KafeJTI28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KonsumsiBahanBakar",
+            "request": "launch",
+            "mainClass": "KonsumsiBahanBakar",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Latihan28",
+            "request": "launch",
+            "mainClass": "Latihan28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "HambatanParalel",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.HambatanParalel",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "HambatanSeri",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.HambatanSeri",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "JasaLaundry",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.JasaLaundry",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "LantaiPersegi",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.LantaiPersegi",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "LayangLayang",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.LayangLayang",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Percepatan",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.Percepatan",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SPBU",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.SPBU",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SaldoBank",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.SaldoBank",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SepedaHeru",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.SepedaHeru",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TandonAir",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.TandonAir",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Tegangan",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.Tegangan",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Toko",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.Toko",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TokoSepatu",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.TokoSepatu",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Trapesium",
+            "request": "launch",
+            "mainClass": "LatihanKuisDasPro1.Trapesium",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Gojek",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan1.Gojek",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "RankingGame",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan1.RankingGame",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "DiskonDanOngkir",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.DiskonDanOngkir",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KalkulasiDiskonBelanja",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.KalkulasiDiskonBelanja",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KalkulasiTarifListrik",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.KalkulasiTarifListrik",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KategoriUmurPengunjung",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.KategoriUmurPengunjung",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KekuatanKarakterGame",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.KekuatanKarakterGame",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "KelayakanKreditBank",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.KelayakanKreditBank",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "LevelUpKarakterGame",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.LevelUpKarakterGame",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "PajakKendaraan",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.PajakKendaraan",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "RekomendasiProduk",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.RekomendasiProduk",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SuhuRuangan",
+            "request": "launch",
+            "mainClass": "LatihanStudiKasusPemilihan2.SuhuRuangan",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer1",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer1",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer2",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer2",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer3",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer3",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer5",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer5",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer6",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer6",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "nomer8",
+            "request": "launch",
+            "mainClass": "LatihanUTSDasPro.nomer8",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJava28",
+            "request": "launch",
+            "mainClass": "MyFirstJava28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstJavaGithub28",
+            "request": "launch",
+            "mainClass": "MyFirstJavaGithub28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Numbers28",
+            "request": "launch",
+            "mainClass": "Numbers28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanBilangan28",
+            "request": "launch",
+            "mainClass": "PemilihanBilangan28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHari28",
+            "request": "launch",
+            "mainClass": "PemilihanHari28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHariDenganIf28",
+            "request": "launch",
+            "mainClass": "PemilihanHariDenganIf28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Penghasilan28",
+            "request": "launch",
+            "mainClass": "Penghasilan28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Porseni",
+            "request": "launch",
+            "mainClass": "Porseni",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "RataNilai28",
+            "request": "launch",
+            "mainClass": "RataNilai28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SIAKAD28",
+            "request": "launch",
+            "mainClass": "SIAKAD28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SIAKADarray28",
+            "request": "launch",
+            "mainClass": "SIAKADarray28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SearchNilai28",
+            "request": "launch",
+            "mainClass": "SearchNilai28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Siakad28",
+            "request": "launch",
+            "mainClass": "Siakad28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor28",
+            "request": "launch",
+            "mainClass": "SiakadFor28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile28",
+            "request": "launch",
+            "mainClass": "SiakadWhile28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Square28",
+            "request": "launch",
+            "mainClass": "Square28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Star28",
+            "request": "launch",
+            "mainClass": "Star28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TabunganBuDina",
+            "request": "launch",
+            "mainClass": "TabunganBuDina",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TahunKabisat28",
+            "request": "launch",
+            "mainClass": "TahunKabisat28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TarifListrik28",
+            "request": "launch",
+            "mainClass": "TarifListrik28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TempatParkir",
+            "request": "launch",
+            "mainClass": "TempatParkir",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TigaBilangan",
+            "request": "launch",
+            "mainClass": "TigaBilangan",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TiketBioskop",
+            "request": "launch",
+            "mainClass": "TiketBioskop",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TokoBuku28",
+            "request": "launch",
+            "mainClass": "TokoBuku28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TokoSepatuTabel28",
+            "request": "launch",
+            "mainClass": "TokoSepatuTabel28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Triangle28",
+            "request": "launch",
+            "mainClass": "Triangle28",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1",
+            "request": "launch",
+            "mainClass": "Tugas1",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2",
+            "request": "launch",
+            "mainClass": "Tugas2",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "Tugas3",
+            "request": "launch",
+            "mainClass": "Tugas3",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "TugasArray2",
+            "request": "launch",
+            "mainClass": "TugasArray2",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        },
+        {
+            "type": "java",
+            "name": "GameRPG",
+            "request": "launch",
+            "mainClass": "UTS.GameRPG",
+            "projectName": "PraktikumDasPro-Semester-1_cee857d8"
+        }
+    ]
+}
